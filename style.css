@@ -27,7 +27,9 @@ input[type="text"]{
     padding-left: 30px;
     color: red;
 }
-
+button{
+      border: none;
+}
 .btn button{
     background-color: #f8f9fa;
     border: none;
